@@ -20,3 +20,7 @@ resized_Image.save('foto formal.jpeg')
 #FILTERING
 filtered_Image = resized_Image.filter(ImageFilter.BLUR)
 filtered_Image.save('foto formal.jpeg')
+
+# Jika gambar dalam mode RGBA, ubah menjadi RGB
+if filtered_Image.mode == 'RGBA':
+    filtered_Image = filtered_Image.convert('RGB')
