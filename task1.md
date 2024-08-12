@@ -87,6 +87,7 @@ Jika semua pustaka terinstal dengan benar, Anda akan melihat output seperti beri
 
 Ambil screenshot hasil dari output tersebut sebagai bukti bahwa semua pustaka telah terinstal dengan benar.
 
+
 ## 📝 Catatan
 
 - Pastikan Python telah terinstal pada sistem Anda. Anda bisa mengunduhnya dari [python.org](https://www.python.org/).
